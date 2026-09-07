@@ -78,3 +78,7 @@ oscap xccdf generate guide --profile PROFILE XCCDF-FILE > XCCDF-GUIDE-FILE
 ```
 oscap xccdf generate report XCCDF-RESULT-FILE > XCCDF-REPORT-FILE
 ```
+
+## A random change
+
+This really is a dummy line to have some change
